@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\bin\Debug\net6.0\CSVStream.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\bin\Debug\net6.0\CSVStream.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\bin\Debug\net6.0\CSVStream.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\bin\Debug\net6.0\CSVStream.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\bin\Debug\net6.0\CSVStream.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\refint\CSVStream.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\CSVStream.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\CSVStream\obj\Debug\net6.0\ref\CSVStream.dll
