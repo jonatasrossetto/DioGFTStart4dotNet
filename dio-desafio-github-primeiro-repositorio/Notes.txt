@@ -1,0 +1,20 @@
+Fast notes about Git
+--------------------------------------
+
+Git download link
+https://git-scm.com/
+
+Git - Manual
+https://git-scm.com/book/en/v2
+
+Git Bash basic commands
+
+git clone http:....  	 	// to clone a public repository on GitHub
+git status  			// what is the status of our project files (unstaged, staged or commited)
+git add . 			// Sets all directory files to staged status
+git commit -m "comentário" 	// Sets all directory files to commited status with a message
+git push origin main		// Updates the project on GitHub
+
+git config --global user.name "name" 	// sets author's name
+git config --global user.email "email" 	// sets author's e-mail
+

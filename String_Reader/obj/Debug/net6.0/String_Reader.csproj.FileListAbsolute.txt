@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\bin\Debug\net6.0\String_Reader.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\bin\Debug\net6.0\String_Reader.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\bin\Debug\net6.0\String_Reader.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\bin\Debug\net6.0\String_Reader.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\bin\Debug\net6.0\String_Reader.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\refint\String_Reader.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\String_Reader.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\String_Reader\obj\Debug\net6.0\ref\String_Reader.dll

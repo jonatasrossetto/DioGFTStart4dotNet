@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\bin\Debug\net6.0\Demo_System_Io.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\bin\Debug\net6.0\Demo_System_Io.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\bin\Debug\net6.0\Demo_System_Io.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\bin\Debug\net6.0\Demo_System_Io.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\bin\Debug\net6.0\Demo_System_Io.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\refint\Demo_System_Io.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\Demo_System_Io.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\Demo_System_Io\obj\Debug\net6.0\ref\Demo_System_Io.dll

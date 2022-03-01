@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\bin\Debug\net6.0\estruturaDePrograma.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\bin\Debug\net6.0\estruturaDePrograma.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\bin\Debug\net6.0\estruturaDePrograma.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\bin\Debug\net6.0\estruturaDePrograma.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\bin\Debug\net6.0\estruturaDePrograma.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\refint\estruturaDePrograma.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\estruturaDePrograma.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\csharp1\estruturaDePrograma\obj\Debug\net6.0\ref\estruturaDePrograma.dll

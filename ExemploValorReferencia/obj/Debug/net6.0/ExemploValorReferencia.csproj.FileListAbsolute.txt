@@ -1,0 +1,15 @@
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.csproj.AssemblyReference.cache
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.AssemblyInfoInputs.cache
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.AssemblyInfo.cs
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\bin\Debug\net6.0\ExemploValorReferencia.exe
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\bin\Debug\net6.0\ExemploValorReferencia.deps.json
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\bin\Debug\net6.0\ExemploValorReferencia.runtimeconfig.json
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\bin\Debug\net6.0\ExemploValorReferencia.dll
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\bin\Debug\net6.0\ExemploValorReferencia.pdb
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.dll
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\refint\ExemploValorReferencia.dll
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.pdb
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ExemploValorReferencia.genruntimeconfig.cache
+C:\Users\jonat\onedrive\programação\dio\exemplovalorreferencia\obj\Debug\net6.0\ref\ExemploValorReferencia.dll
