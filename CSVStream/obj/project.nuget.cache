@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1CPOFHbbnn/wwldKTuRa8zK/EyARdouVw6dYouoGaD7VZPiUOcWica6+/+jQK87yMYRVn+GMeiL3zRC8UfCOQQ==",
+  "dgSpecHash": "cJkHm+CwglJPSRrRSD/0GUykaNs7i3IR/g4ab84qHR3hmvXqOwJ2btu3K9Vnr1+rXx2I8RzoyHlRUY75agaFYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CSVStream\\CSVStream.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
