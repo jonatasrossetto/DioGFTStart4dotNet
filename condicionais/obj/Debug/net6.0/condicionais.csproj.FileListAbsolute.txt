@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\bin\Debug\net6.0\condicionais.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\bin\Debug\net6.0\condicionais.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\bin\Debug\net6.0\condicionais.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\bin\Debug\net6.0\condicionais.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\bin\Debug\net6.0\condicionais.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\refint\condicionais.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\condicionais.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\condicionais\obj\Debug\net6.0\ref\condicionais.dll
