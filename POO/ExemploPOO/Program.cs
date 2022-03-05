@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploPOO.Helper;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Model;
 using static System.Console;
@@ -51,8 +52,24 @@ class Program
 
         ICalculadora calc1 = new Calculadora();
         WriteLine(calc1.Subtrair(10, 11));
+        WriteLine("************** \n\n");
 
-
+        FileHelper helper = new FileHelper();
+        helper.ListarDiretorio(@".\ExampleFiles");
+        helper.ListarArquivos(@".\ExampleFiles");
+        helper.CriarDiretorio(@".\ExampleFiles\Pasta3");
+        WriteLine("**************");
+        helper.ListarDiretorio(@".\ExampleFiles");
+        var caminho = Path.Combine(@".\ExampleFiles", "novoarquivo.txt");
+        helper.CriarArquivoTexto(caminho, "teste de escrita no arquivo");
+        var texto = new List<string> { "linha1", "linha2", "linha3" };
+        var texto2 = new List<string> { "linha4", "linha5", "linha6" };
+        helper.CriarArquivoTextoStream(@".\ExampleFiles\stream.txt", texto);
+        helper.AdicionarTexto(caminho, "\nnova linha 1");
+        helper.AdicionarTexto(caminho, "\nnova linha 2");
+        helper.AdicionarTexto(caminho, "\nnova linha 3");
+        helper.LerArquivo(caminho);
+        helper.AdicionarTextoStream(@".\ExampleFiles\stream.txt", texto2);
 
     }
 }
