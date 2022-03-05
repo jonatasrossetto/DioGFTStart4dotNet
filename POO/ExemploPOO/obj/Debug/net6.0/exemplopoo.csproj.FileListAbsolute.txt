@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\exemplopoo.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\exemplopoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\exemplopoo.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\exemplopoo.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\exemplopoo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\refint\ExemploPOO.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\POO\exemplopoo\obj\Debug\net6.0\ref\ExemploPOO.dll
