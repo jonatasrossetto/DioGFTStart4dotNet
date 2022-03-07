@@ -100,6 +100,143 @@ class Program
             System.Console.Write(vetorstring[k] + "   ");
         }
 
+        WriteLine("******************8 \n\n");
+        WriteLine("trabalhando com listas");
+
+        List<string> estados = new List<string>();
+        estados.Add("BA");
+        estados.Add("SP");
+        estados.Add("MG");
+
+        string[] estadovetor = new string[2] { "SC", "RJ" };
+
+        WriteLine($"quantidade de elementos na lista: {estados.Count} \n");
+        // foreach (var item in estados)
+        // {
+        //     WriteLine(item);
+        // }
+        // for (int i = 0; i < estados.Count; i++)
+        // {
+        //     WriteLine($"elemento[{i}]: {estados[i]}");
+        // }
+
+        OperacoesLista opl = new OperacoesLista();
+        opl.ImprimirListaString(estados);
+        // estados.Remove("MG");
+        estados.AddRange(estadovetor);
+        WriteLine("**********");
+        opl.ImprimirListaString(estados);
+        estados.Insert(1, "PR");
+        WriteLine("**********");
+        opl.ImprimirListaString(estados);
+
+
+        WriteLine("******************8 \n\n");
+        WriteLine("trabalhando com Queue (Filas)");
+
+        Queue<string> fila = new Queue<string>();
+
+        fila.Enqueue("primeiro");
+        fila.Enqueue("segundo");
+        fila.Enqueue("terceiro");
+        fila.Enqueue("quarto");
+        WriteLine($"contagem: {fila.Count}");
+
+        while (fila.Count > 0)
+        {
+            WriteLine($"próximo elemento a sair da fila: {fila.Peek()}");
+            WriteLine($"saiu: {fila.Dequeue()}");
+            WriteLine($"contagem: {fila.Count}");
+            WriteLine($"**********************");
+        }
+
+        WriteLine("******************8 \n\n");
+        WriteLine("trabalhando com Stacks (pilhas)");
+
+        Stack<string> pilha = new Stack<string>();
+        pilha.Push("primeiro a entrar");
+        pilha.Push("segundo a entrar");
+        pilha.Push("terceiro a entrar");
+        pilha.Push("quarto a entrar");
+        WriteLine($"contagem da pilha: {pilha.Count}");
+
+        while (pilha.Count > 0)
+        {
+            WriteLine($"contagem da pilha: {pilha.Count}");
+            WriteLine($"quem vai sair agora: {pilha.Peek()}");
+            WriteLine($"{pilha.Pop()} saiu da pilha");
+            WriteLine($"***************");
+        }
+
+        WriteLine("******************8 \n\n");
+        WriteLine("trabalhando com Dictionary (dicionários chave/valor)");
+
+        Dictionary<string, string> uf = new Dictionary<string, string>();
+        uf.Add("SP", "São Paulo");
+        uf.Add("BA", "Bahia");
+        uf.Add("PE", "Pernambuco");
+        uf.Add("PR", "Paraná");
+        // uf.Add("SP", "São Paulo");
+
+        foreach (KeyValuePair<string, string> item in uf)
+        {
+            WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+        }
+
+        string valorprocurado = "PE";
+        WriteLine($"valor procurado {valorprocurado} :: {uf[valorprocurado]}");
+        uf[valorprocurado] = "pernambuco";
+        WriteLine($"valor procurado {valorprocurado} :: {uf[valorprocurado]}");
+        uf.Remove(valorprocurado);
+
+        foreach (KeyValuePair<string, string> item in uf)
+        {
+            WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+        }
+
+        valorprocurado = "BA";
+        if (uf.TryGetValue(valorprocurado, out string ufencontrado))
+        {
+            WriteLine($"achei o valor procurado: {ufencontrado}");
+        }
+        else
+        {
+            WriteLine($"NÃO achei o valor procurado");
+        }
+
+        WriteLine("******************8 \n\n");
+        WriteLine("trabalhando com LINQ");
+
+        int[] numbers = new int[10] { 1, 4, 8, 0, 15, 19, 100, 19, 4, 100 };
+
+        var paresQuery =
+            from num in numbers
+            where num % 2 == 0
+            orderby num
+            select num;
+
+        var paresMetodo = numbers.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+
+        WriteLine("original: " + string.Join(", ", numbers));
+        WriteLine("pares por query: " + string.Join(", ", paresQuery));
+        WriteLine("pares por query: " + string.Join(", ", paresMetodo));
+
+        var minimo = numbers.Min();
+        var maximo = numbers.Max();
+        var medio = numbers.Average();
+
+        WriteLine($"mínimo: {minimo}, máximo: {maximo}, média: {medio}");
+        WriteLine($"somatório: {numbers.Sum()}");
+        var numbersUnico = numbers.Distinct().ToArray();
+        WriteLine("original: " + string.Join(", ", numbers));
+
+        WriteLine("distintos: " + string.Join(", ", numbersUnico));
+
+
+
+
+
+
     }
 
 
