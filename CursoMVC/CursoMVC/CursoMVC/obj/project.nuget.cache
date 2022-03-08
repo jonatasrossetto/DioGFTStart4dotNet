@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "18vMrJxeH14/aZX5ew37BY9Xo/N+3L9bY1vmomqbMhKxWJrpsolYLn91d7gIAJ6+jeOFK40MbFBD+UDDiKw2PQ==",
+  "dgSpecHash": "yJxaj8kueDdBLkUzTuzgrW2IzBqMQx1N7P+xV3l2PwAVKNQfLhu4R0fpXrW8+FcAhlMF7Uf7LyaFbvNiwMwKig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\CursoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

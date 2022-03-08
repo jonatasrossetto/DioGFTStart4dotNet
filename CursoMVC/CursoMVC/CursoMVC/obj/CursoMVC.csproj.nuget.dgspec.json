@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {}
+    "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\CursoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+    "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\CursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\CursoMVC.csproj",
         "projectName": "CursoMVC",
-        "projectPath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\CursoMVC.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMVC\\CursoMVC\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\PROGRAMAÇÃO\\Dio\\CursoMVC\\CursoMvc\\CursoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
