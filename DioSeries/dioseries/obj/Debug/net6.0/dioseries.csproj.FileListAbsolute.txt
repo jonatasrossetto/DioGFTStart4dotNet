@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\bin\Debug\net6.0\dioseries.exe
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\bin\Debug\net6.0\dioseries.deps.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\bin\Debug\net6.0\dioseries.runtimeconfig.json
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\bin\Debug\net6.0\dioseries.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\bin\Debug\net6.0\dioseries.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\refint\dioseries.dll
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.pdb
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\dioseries.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\PROGRAMAÇÃO\Dio\DioSeries\dioseries\obj\Debug\net6.0\ref\dioseries.dll
